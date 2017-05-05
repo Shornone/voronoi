@@ -1,2 +1,2 @@
 # voronoi
-Visualisations of Voronoi diagrams and Delaunay triangulationa
+Visualisations of Voronoi diagrams and Delaunay triangulations
